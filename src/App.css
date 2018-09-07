@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.counterValue{
+  display:inline-block;
+  font-size:1.5rem;
+  padding:2rem;
+}
